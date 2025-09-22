@@ -17,7 +17,7 @@ ROUGE-L	0.915\
 BERTScore (F1)	0.970\
 Perplexity 279.810
 
-# Tech Stack Used\
+# Tech Stack Used
 Python 3.10\
 PyTorch\
 Hugging Face Transformers\
