@@ -12,10 +12,10 @@ Text Generation: Uses Top-k sampling with temperature scaling for diverse and co
 The model was evaluated on its Next Word Prediction capabilities on a held-out test set from the TinyStories dataset. The performance was measured using several standard NLP metrics.
 
 Metric	Score\
-BLEU	0.834\
-ROUGE-L	0.915\
-BERTScore (F1)	0.970\
-Perplexity 279.810
+BLEU:	0.834\
+ROUGE-L:	0.915\
+BERTScore (F1):	0.970\
+Perplexity: 279.810
 
 # Tech Stack Used
 Python 3.10\
