@@ -9,10 +9,10 @@ Positional Encoding: Injects information about the position of tokens in the seq
 Text Generation: Uses Top-k sampling with temperature scaling for diverse and controlled text generation.
 
 Paramters:
-No. of heads - 12
-No. of layer - 12
-Embd. dim - 768
-Context length - 1024
+No. of heads - 12\
+No. of layer - 12\
+Embd. dim - 768\
+Context length - 1024\
 
 # Evaluation
 The model was evaluated on its Next Word Prediction capabilities on a held-out test set from the TinyStories dataset. The performance was measured using several standard NLP metrics.
