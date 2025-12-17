@@ -9,6 +9,7 @@ Positional Encoding: Injects information about the position of tokens in the seq
 Text Generation: Uses Top-k sampling with temperature scaling for diverse and controlled text generation.
 
 ![Architecture of Model](Image.jpeg)
+
 Paramters:
 No. of heads - 12\
 No. of layer - 12\
